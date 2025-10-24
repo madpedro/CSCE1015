@@ -4,3 +4,6 @@ Assignment repository for UNT CSCE1015
 
 ## Favorite Linux Command
 MKDIR
+PAM0285
+## EUID
+PAM0285
